@@ -1,0 +1,4 @@
+New Session: 
+modelResol: 2.96357
+objResol: 0.51523076
+meandist: 1.0185684
