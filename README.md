@@ -15,7 +15,7 @@ Thus, the project aims to achieve the following solid objectives both in academi
 Our approach mainly comprises two important elements in the determination of next best probe pose and multiple-view point clouds registration. A novel technique is proposed to register 3-D object scene with overlapped or stacked condition. Under this scenario, conventional registration methods such as the iterative closest point algorithm usually fail to converge to a global minimum when a good initial estimate for image registration does not exist. Our proposed technique uses a 3-D scanner to be mounted on a six degree of freedom-articulated industrial robot. It keeps moving probe continuously in the working
 range against the object and autonomously varying the probe with various gestures required for complete object scanning and for achieving best 3-D sensing accuracy. The robot scanning path is determined through a proposed algorithm using information from the latest scanning data and registered result of the object.
 
-![alt text](https://github.com/hoangcuongbk80/3D-Inspection/blob/master/docs/images/bigBlade.png)
+![alt text](https://github.com/hoangcuongbk80/3D-Inspection/blob/master/docs/images/inspection.png)
 
 ![alt text](https://github.com/hoangcuongbk80/3D-Inspection/blob/master/docs/images/blades.png)
 
